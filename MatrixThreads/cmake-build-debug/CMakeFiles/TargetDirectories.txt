@@ -1,0 +1,3 @@
+C:/CLionProjects/MatrixThreads/cmake-build-debug/CMakeFiles/MatrixThreads.dir
+C:/CLionProjects/MatrixThreads/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CLionProjects/MatrixThreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
